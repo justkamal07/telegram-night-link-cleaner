@@ -16,4 +16,4 @@ This project is built with Python and is ready for easy cloud deployment:
 * **Deployment:** Includes a `procfile` for quick deployment to platforms like Heroku or Render.
 
 ---
-*Created by [Kamal007OLica](https://github.com/Kamal007OLica)*
+*Created by [justkamal07](https://github.com/justkamal07)*
